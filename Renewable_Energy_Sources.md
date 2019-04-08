@@ -214,3 +214,78 @@ Examples of biomass and their uses for energy:
 * Animal manure and human sewage—converted to biogas, which can be burned as a fuel
 
 ![That](https://www.eia.gov/energyexplained/images/BIOMASSTYPES.jpg)
+#### Converting biomass to energy
+Solid biomass, such as wood and garbage, can be burned directly to produce heat. Biomass can also be converted into a gas called biogas or into liquid biofuels such as ethanol and biodiesel. These fuels can then be burned for energy.
+
+Biogas forms when paper, food scraps, and yard waste decompose in landfills, and it can be produced by processing sewage and animal manure in special vessels called digesters.
+
+Ethanol is made from crops such as corn and sugar cane that are fermented to produce fuel ethanol for use in vehicles. Biodiesel is produced from vegetable oils and animal fats and can be used in vehicles and as heating oil.
+### Biomass Energy
+ 
+
+The energy stored in biomass can be released to produce renewable electricity or heat. Biopower can be generated through combustion or gasification of dry biomass or biogas (methane) captured through controlled anaerobic digestion. Cofiring of biomass and fossil fuels (usually coal) is a low-cost means of reducing greenhouse gas emissions, improving cost-effectiveness, and reducing air pollutants in existing power plants. Thermal energy (heating and cooling) is often produced at the scale of the individual building, through direct combustion of wood pellets, wood chips, and other sources of dry biomass.
+
+Combined heat and power (CHP) operations often represent the most efficient use of biomass (utilizing around 80 percent of potential energy). These facilities capture the waste heat and/or steam from biopower production and pipe it to nearby buildings to provide heat or to chillers for cooling.
+#### Biofuels
+ 
+
+A number of transportation fuels can be produced from biomass, helping to alleviate demand for petroleum products and improve the greenhouse gas emissions profile of the transportation sector. Ethanol from corn and sugarcane, and biodiesel from soy, rapeseed, and oil palm dominate the current market for biofuels, but a number of companies are moving forward aggressively to develop and market a number of advanced second-generation biofuels made from non-food feedstocks, such as municipal waste, algae, perennial grasses, and wood chips. These fuels include cellulosic ethanol, bio-butanol, methanol and a number of synthetic gasoline/diesel equivalents. Until we are able to produce a significant amount of electric vehicles that run on renewably-produced electricity, biofuels remain the only widely available source of clean, renewable transportation energy.
+### Synthetic fuels from the biomass
+![That](http://weben.dede.go.th/webmax/sites/default/files/13_2.png)
+Synthetic fuel or synfuel is a liquid fuel, or sometimes gaseous fuel, obtained from syngas, a mixture of carbon monoxide and hydrogen, in which the syngas was derived from gasification of solid feedstocks such as coal or biomass or by reforming of natural gas.
+
+Common methods for manufacturing synthetic fuels include the Fischer–Tropsch conversion, methanol to gasoline conversion, or direct coal liquefaction.
+
+Synthetic fuels are produced by the chemical process of conversion. Conversion methods could be direct conversion into liquid transportation fuels, or indirect conversion, in which the source substance is converted initially into syngas which then goes through additional conversion process to become liquid fuels. Basic conversion methods include carbonization and pyrolysis, hydrogenation, and thermal dissolution.
+### Waste-To-Energy Conversion
+Waste-to-energy is the use of modern combustion and biological technologies to recover energy from urban wastes. There are three major waste to energy conversion routes – thermochemical, biochemical and physico-chemical. Thermochemical conversion, characterized by higher temperature and conversion rates, is best suited for lower moisture feedstock and is generally less selective for products. On the other hand, biochemical technologies are more suitable for wet wastes which are rich in organic matter.
+
+#### Thermochemical Conversion
+The three principal methods of thermochemical conversion are 
+* combustion in excess air, 
+* gasification in reduced air, and 
+* pyrolysis in the absence of air.
+
+The most common technique for producing both heat and electrical energy from household wastes is direct combustion.
+Combined heat and power (CHP) or cogeneration systems, ranging from small-scale technology to large grid-connected facilities, provide significantly higher efficiencies than systems that only generate electricity.
+![This](https://i0.wp.com/www.bioenergyconsult.com/wp-content/uploads/2012/04/Waste_Pathways.jpg?w=849&ssl=1)
+Combustion technology is the controlled combustion of waste with the recovery of heat to produce steam which in turn produces power through steam turbines. Pyrolysis and gasification represent refined thermal treatment methods as alternatives to incineration and are characterized by the transformation of the waste into product gas as energy carrier for later combustion in, for example, a boiler or a gas engine. Plasma gasification, which takes place at extremely high temperature, is also hogging limelight nowadays.
+### Biochemical Conversion
+Biochemical processes, like anaerobic digestion, can also produce clean energy in the form of biogas which can be converted to power and heat using a gas engine. Anaerobic digestion is the natural biological process which stabilizes organic waste in the absence of air and transforms it into biofertilizer and biogas.
+
+Anaerobic digestion is a reliable technology for the treatment of wet, organic waste.  Organic waste from various sources is biochemically degraded in highly controlled, oxygen-free conditions circumstances resulting in the production of biogas which can be used to produce both electricity and heat.
+
+In addition, a variety of fuels can be produced from waste resources including liquid fuels, such as ethanol, methanol, biodiesel, Fischer-Tropsch diesel, and gaseous fuels, such as hydrogen and methane. The resource base for biofuel production is composed of a wide variety of forestry and agricultural resources, industrial processing residues, and municipal solid and urban wood residues. Globally, biofuels are most commonly used to power vehicles, heat homes, and for cooking.
+
+### Physico-chemical Conversion
+The physico-chemical technology involves various processes to improve physical and chemical properties of solid waste. The combustible fraction of the waste is converted into high-energy fuel pellets which may be used in steam generation. The waste is first dried to bring down the high moisture levels. Sand, grit, and other incombustible matter are then mechanically separated before the waste is compacted and converted into fuel pellets or RDF.
+
+Fuel pellets have several distinct advantages over coal and wood because it is cleaner, free from incombustibles, has lower ash and moisture contents, is of uniform size, cost-effective, and eco-friendly.
+##  Biofuel cell
+A biofuel cell uses living organisms to produce electricity. 
+### Microbial fuel cell 
+  * A microbial fuel cell (MFC), or biological fuel cell, is a bio-electrochemical system that drives an electric current by using bacteria and mimicking bacterial interactions found in nature. MFCs can be grouped into two general categories: mediated and unmediated. 
+  * A microbial fuel cell (MFC) is a device that converts chemical energy to electrical energy by the action of microorganisms.
+  * These electrochemical cells are constructed using either a bioanode and/or a biocathode. Most MFCs contain a membrane to separate the compartments of the anode (where oxidation takes place) and the cathode (where reduction takes place). 
+  * The electrons produced during oxidation are transferred directly to an electrode or, to a redox mediator species. The electron flux is moved to the cathode. The charge balance of the system is compensated by ionic movement inside the cell, usually across an ionic membrane. 
+  * Most MFCs use an organic electron donor that is oxidized to produce CO2, protons and electrons. Other electron donors have been reported, such as sulphur compounds or hydrogen.
+  * The cathode reaction uses a variety of electron acceptors that includes the reduction of oxygen as the most studied process. 
+  ##### Power generation
+MFCs are attractive for power generation applications that require only low power, but where replacing batteries may be impractical, such as wireless sensor networks.
+
+Virtually any organic material could be used to feed the fuel cell, including coupling cells to wastewater treatment plants. Chemical process wastewater[18][19] and synthetic wastewater[20][21] have been used to produce bioelectricity in dual- and single-chamber mediatorless MFCs (uncoated graphite electrodes).
+
+In theory, an MFC is capable of energy efficiency far beyond 50%. 
+
+MFCs operate well in mild conditions, 20 °C to 40 °C and also at pH of around 7. They lack the stability required for long-term medical applications such as in pacemakers.
+
+Power stations can be based on aquatic plants such as algae. If sited adjacent to an existing power system, the MFC system can share its electricity lines.
+## Enzymatic biofuel cell
+It is a specific type of fuel cell that uses enzymes as a catalyst to oxidize its fuel, rather than precious metals. Enzymatic biofuel cells, while currently confined to research facilities, are widely prized for the promise they hold in terms of their relatively inexpensive components and fuels, as well as a potential power source for bionic implants.
+#### Operations
+* Enzymatic biofuel cells work on the same general principles as all fuel cells: use a catalyst to separate electrons from a parent molecule and force it to go around an electrolyte barrier through a wire to generate an electric current. 
+* What makes the enzymatic biofuel cell distinct from more conventional fuel cells are the catalysts they use and the fuels that they accept.
+* Whereas most fuel cells use metals like platinum and nickel as catalysts, the enzymatic biofuel cell uses enzymes derived from living cells (although not within living cells; fuel cells that use whole cells to catalyze fuel are called microbial fuel cells). 
+* This offers a couple of advantages for enzymatic biofuel cells: Enzymes are relatively easy to mass-produce and so benefit from economies of scale, whereas precious metals must be mined and so have an inelastic supply. 
+* Enzymes are also specifically designed to process organic compounds such as sugars and alcohols, which are extremely common in nature. 
+* Most organic compounds cannot be used as fuel by fuel cells with metal catalysts because the carbon monoxide formed by the interaction of the carbon molecules with oxygen during the fuel cell’s functioning will quickly “poison” the precious metals that the cell relies on, rendering it useless.
